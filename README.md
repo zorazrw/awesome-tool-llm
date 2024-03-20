@@ -98,6 +98,8 @@ If you find our paper or code useful, please cite the paper:
   
   **MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use** *Huang, Yue, et al.* 2023.10 [[Paper]](https://openreview.net/forum?id=R0c2qtalgG&referrer=%5Bthe%20profile%20of%20Neil%20Zhenqiang%20Gong%5D(%2Fprofile%3Fid%3D~Neil_Zhenqiang_Gong1))
 
+  **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error** *Wang, Boshi, et al.* 2024.03 [[Preprint]](https://arxiv.org/abs/2403.04746)
+
 - Self-training with bootstrapped examples
   
   **Toolformer: Language Models Can Teach Themselves to Use Tools** *Schick, Timo, et al.* 2024 [Paper](https://openreview.net/forum?id=Yacmpz84TH&referrer=%5Bthe%20profile%20of%20Roberto%20Dessi%5D(%2Fprofile%3Fid%3D~Roberto_Dessi1))
