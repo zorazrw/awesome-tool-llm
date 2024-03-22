@@ -148,6 +148,8 @@ If you find our paper or code useful, please cite the paper:
   
   **Mint: Evaluating llms in multi-turn interaction with tools and language feedback** *Wang, Xingyao, et al.* 2023.09 [[Paper]](https://openreview.net/forum?id=jp3gWrMuIZ&referrer=%5Bthe%20profile%20of%20Hao%20Peng%5D(%2Fprofile%3Fid%3D~Hao_Peng4))
 
+  **MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning** *Das, Debrup, et al.* 2024 [[Preprint]](https://arxiv.org/abs/2402.17231)
+
 - Tools for more advanced business activities, e.g., financial, medical, education, etc.
   
   **On the Tool Manipulation Capability of Open-source Large Language Models** *Xu, Qiantong, et al.* 2023.05 [[Paper]](https://openreview.net/forum?id=iShM3YolRY&referrer=%5Bthe%20profile%20of%20Changran%20Hu%5D(%2Fprofile%3Fid%3D~Changran_Hu1))
