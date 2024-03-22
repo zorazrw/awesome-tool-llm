@@ -76,6 +76,8 @@ If you find our paper or code useful, please cite the paper:
   
   **Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models** *Lu, Pan, et al.* 2024 [[Paper]](https://openreview.net/forum?id=HtqnVSCj3q&referrer=%5Bthe%20profile%20of%20Pan%20Lu%5D(%2Fprofile%3Fid%3D~Pan_Lu2))
 
+  **MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning** *Das, Debrup, et al.* 2024 [[Preprint]](https://arxiv.org/abs/2402.17231)
+
 - In-context learning based tool using for reasoning problems in BigBench and MMLU
   
   **ART: Automatic multi-step reasoning and tool-use for large language models** *Paranjape, Bhargavi, et al.* 2023.03 [[Preprint]](https://arxiv.org/abs/2303.09014)
