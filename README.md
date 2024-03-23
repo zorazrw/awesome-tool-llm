@@ -122,6 +122,8 @@ If you find our paper or code useful, please cite the paper:
 
   **Middleware for LLMs: Tools are Instrumental for Language Agents in Complex Environments** *Gu, Yu, et al.* 2024 [[Paper]](https://arxiv.org/abs/2402.14672)
 
+  **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information** *Jin, Qiao, et al.* 2024 [[Paper]](https://academic.oup.com/bioinformatics/article/40/2/btae075/7606338)
+
 - Search information from the web
   
   **Internet-augmented language models through few-shot prompting for open-domain question answering** *Lazaridou, Angeliki, et al.* 2022.03 [[Paper]](https://arxiv.org/abs/2203.05115)
@@ -139,6 +141,10 @@ If you find our paper or code useful, please cite the paper:
 - Using calculator for math calculations
   
   **Toolformer: Language Models Can Teach Themselves to Use Tools** *Schick, Timo, et al.* 2024 [[Paper]](https://openreview.net/forum?id=Yacmpz84TH&referrer=%5Bthe%20profile%20of%20Roberto%20Dessi%5D(%2Fprofile%3Fid%3D~Roberto_Dessi1))
+
+- Using medical calculators
+
+  **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning** *Jin, Qiao, et al.* 2024 [[Paper]](https://arxiv.org/abs/2402.13225)
 
 - Using programs/Python interpreter to perform more complex operations
   
