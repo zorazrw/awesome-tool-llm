@@ -122,6 +122,8 @@ If you find our paper or code useful, please cite the paper:
 
   **Middleware for LLMs: Tools are Instrumental for Language Agents in Complex Environments** *Gu, Yu, et al.* 2024 [[Paper]](https://arxiv.org/abs/2402.14672)
 
+  **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information** *Jin, Qiao, et al.* 2024 [[Paper]](https://academic.oup.com/bioinformatics/article/40/2/btae075/7606338)
+
 - Search information from the web
   
   **Internet-augmented language models through few-shot prompting for open-domain question answering** *Lazaridou, Angeliki, et al.* 2022.03 [[Paper]](https://arxiv.org/abs/2203.05115)
@@ -157,6 +159,8 @@ If you find our paper or code useful, please cite the paper:
   **ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases** *Tang, Qiaoyu, et al.* 2023.06 [[Preprint]](https://arxiv.org/abs/2306.05301)
   
   **Mint: Evaluating llms in multi-turn interaction with tools and language feedback** *Wang, Xingyao, et al.* 2023.09 [[Paper]](https://openreview.net/forum?id=jp3gWrMuIZ&referrer=%5Bthe%20profile%20of%20Hao%20Peng%5D(%2Fprofile%3Fid%3D~Hao_Peng4))
+
+  **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning** *Jin, Qiao, et al.* 2024.02 [[Paper]](https://arxiv.org/abs/2402.13225)
 
 ### Interaction with the world 🌐
 
