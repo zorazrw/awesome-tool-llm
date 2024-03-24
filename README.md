@@ -142,10 +142,6 @@ If you find our paper or code useful, please cite the paper:
   
   **Toolformer: Language Models Can Teach Themselves to Use Tools** *Schick, Timo, et al.* 2024 [[Paper]](https://openreview.net/forum?id=Yacmpz84TH&referrer=%5Bthe%20profile%20of%20Roberto%20Dessi%5D(%2Fprofile%3Fid%3D~Roberto_Dessi1))
 
-- Using medical calculators
-
-  **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning** *Jin, Qiao, et al.* 2024 [[Paper]](https://arxiv.org/abs/2402.13225)
-
 - Using programs/Python interpreter to perform more complex operations
   
   **Pal: Program-aided language models** *Gao, Luyu, et al.* 2023 [[Paper]](https://dl.acm.org/doi/10.5555/3618408.3618843)
@@ -163,6 +159,8 @@ If you find our paper or code useful, please cite the paper:
   **ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases** *Tang, Qiaoyu, et al.* 2023.06 [[Preprint]](https://arxiv.org/abs/2306.05301)
   
   **Mint: Evaluating llms in multi-turn interaction with tools and language feedback** *Wang, Xingyao, et al.* 2023.09 [[Paper]](https://openreview.net/forum?id=jp3gWrMuIZ&referrer=%5Bthe%20profile%20of%20Hao%20Peng%5D(%2Fprofile%3Fid%3D~Hao_Peng4))
+
+  **AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning** *Jin, Qiao, et al.* 2024.02 [[Paper]](https://arxiv.org/abs/2402.13225)
 
 ### Interaction with the world 🌐
 
