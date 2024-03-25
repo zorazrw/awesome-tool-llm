@@ -104,6 +104,8 @@ If you find our paper or code useful, please cite the paper:
   
   **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error** *Wang, Boshi, et al.* 2024.03 [[Preprint]](https://arxiv.org/abs/2403.04746)
 
+  **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving** *Gou, Zhibin, et al.* 2023.09 [[Paper]](https://openreview.net/forum?id=Ep0TtjVoap)
+
 - Self-training with bootstrapped examples
   
   **Toolformer: Language Models Can Teach Themselves to Use Tools** *Schick, Timo, et al.* 2024 [Paper](https://openreview.net/forum?id=Yacmpz84TH&referrer=%5Bthe%20profile%20of%20Roberto%20Dessi%5D(%2Fprofile%3Fid%3D~Roberto_Dessi1))
