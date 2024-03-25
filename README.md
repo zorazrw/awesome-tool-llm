@@ -89,7 +89,9 @@ If you find our paper or code useful, please cite the paper:
 - Training on human annotated examples of (NL input, tool-using solution output) pairs
   
   **API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs** *Li, Minghao, et al.* 2023.12 [[Paper]](https://aclanthology.org/2023.emnlp-main.187/)
-
+  
+  **Calc-X and Calcformers: Empowering Arithmetical Chain-of-Thought through Interaction with Symbolic Systems** *Kadlčík, Marek, et al.* 2023 [[Paper]](https://aclanthology.org/2023.emnlp-main.742.pdf)
+  
 - Training on model-synthesized examples
   
   **ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases** *Tang, Qiaoyu, et al.* 2023.06 [[Preprint]](https://arxiv.org/abs/2306.05301)
@@ -141,6 +143,8 @@ If you find our paper or code useful, please cite the paper:
 - Using calculator for math calculations
   
   **Toolformer: Language Models Can Teach Themselves to Use Tools** *Schick, Timo, et al.* 2024 [[Paper]](https://openreview.net/forum?id=Yacmpz84TH&referrer=%5Bthe%20profile%20of%20Roberto%20Dessi%5D(%2Fprofile%3Fid%3D~Roberto_Dessi1))
+
+  **Calc-X and Calcformers: Empowering Arithmetical Chain-of-Thought through Interaction with Symbolic Systems** *Kadlčík, Marek, et al.* 2023 [[Paper]](https://aclanthology.org/2023.emnlp-main.742.pdf)
 
 - Using programs/Python interpreter to perform more complex operations
   
