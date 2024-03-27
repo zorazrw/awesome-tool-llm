@@ -104,8 +104,6 @@ If you find our paper or code useful, please cite the paper:
   
   **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error** *Wang, Boshi, et al.* 2024.03 [[Preprint]](https://arxiv.org/abs/2403.04746)
 
-  **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving** *Gou, Zhibin, et al.* 2023.09 [[Paper]](https://openreview.net/forum?id=Ep0TtjVoap)
-
 - Self-training with bootstrapped examples
   
   **Toolformer: Language Models Can Teach Themselves to Use Tools** *Schick, Timo, et al.* 2024 [Paper](https://openreview.net/forum?id=Yacmpz84TH&referrer=%5Bthe%20profile%20of%20Roberto%20Dessi%5D(%2Fprofile%3Fid%3D~Roberto_Dessi1))
@@ -157,6 +155,8 @@ If you find our paper or code useful, please cite the paper:
   **Mint: Evaluating llms in multi-turn interaction with tools and language feedback** *Wang, Xingyao, et al.* 2023.09 [[Paper]](https://openreview.net/forum?id=jp3gWrMuIZ&referrer=%5Bthe%20profile%20of%20Hao%20Peng%5D(%2Fprofile%3Fid%3D~Hao_Peng4))
 
   **MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning** *Das, Debrup, et al.* 2024 [[Preprint]](https://arxiv.org/abs/2402.17231)
+
+  **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving** *Gou, Zhibin, et al.* 2023.09 [[Paper]](https://openreview.net/forum?id=Ep0TtjVoap)
 
 - Tools for more advanced business activities, e.g., financial, medical, education, etc.
   
