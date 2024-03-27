@@ -27,7 +27,7 @@ If you find our paper or code useful, please cite the paper:
 @article{wang2022what,
   title={What Are Tools Anyway? A Survey from the Language Model Perspective},
   author={Zhiruo Wang, Zhoujun Cheng, Hao Zhu, Daniel Fried, Graham Neubig},
-  url={https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf},
+  journal={arXiv preprint arXiv:2403.15452},
   year={2024}
 }
 ``````
