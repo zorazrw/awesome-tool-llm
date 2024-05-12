@@ -13,7 +13,7 @@
 
 Language models (LMs) are powerful yet mostly for text-generation tasks. Tools have substantially enhanced their performance for tasks that require complex skills.
 
-Based on our recent survey about LM-used tools, ["What Are Tools Anyway? A Survey from the Language Model Perspective"](https://zorazrw.github.io/files/WhatAreToolsAnyway.pdf), we provide a structured list of literature relevant to tool-augmented LMs.
+Based on our recent survey about LM-used tools, ["What Are Tools Anyway? A Survey from the Language Model Perspective"](https://arxiv.org/pdf/2403.15452), we provide a structured list of literature relevant to tool-augmented LMs.
 
 - Tool basics ($\S2$)
 - Tool use paradigm ($\S3$)
