@@ -239,6 +239,8 @@ If you find our paper or code useful, please cite the paper:
 - Complex tool usage, e.g., parallel calls
   
   **Function Calling and Other API Updates** *Eleti, Atty, et al.* 2023.06 [[Blog]](https://openai.com/blog/function-calling-and-other-api-updates)
+  
+  **An LLM Compiler for Parallel Function Calling** *Kim, Sehoon, et al.* 2023.12 [[Paper]](https://arxiv.org/abs/2312.04511)
 
 ### $\S5.2$ Tools in programmatic contexts 👩‍💻
 
