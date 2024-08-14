@@ -154,7 +154,7 @@ If you find our paper or code useful, please cite the paper:
   
   **Mint: Evaluating llms in multi-turn interaction with tools and language feedback** *Wang, Xingyao, et al.* 2023.09 [[Paper]](https://openreview.net/forum?id=jp3gWrMuIZ&referrer=%5Bthe%20profile%20of%20Hao%20Peng%5D(%2Fprofile%3Fid%3D~Hao_Peng4))
 
-  **MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning** *Das, Debrup, et al.* 2024 [[Preprint]](https://arxiv.org/abs/2402.17231)
+  **MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning** *Das, Debrup, et al.* 2024 [[Paper]](https://aclanthology.org/2024.naacl-long.54/)
 
   **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving** *Gou, Zhibin, et al.* 2023.09 [[Paper]](https://openreview.net/forum?id=Ep0TtjVoap)
 
