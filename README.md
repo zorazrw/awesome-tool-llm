@@ -373,3 +373,7 @@ If you find our paper or code useful, please cite the paper:
 - Collect tools from Huggingface and PublicAPIs
   
   **Taskbench: Benchmarking large language models for task automation** *Shen, Yongliang, et al.* 2023.11 [[Paper]](https://openreview.net/forum?id=70xhiS0AQS&referrer=%5Bthe%20profile%20of%20Xu%20Tan%5D(%2Fprofile%3Fid%3D~Xu_Tan1))
+
+- Collect Action Sequences in real-world macOS/iPadOS/iOS.
+  
+  **ShortcutsBench: A Large-Scale Real-World Benchmark for API-Based Agents** *Shen, Haiyang, et al.* 2024.07 [[Paper]](https://arxiv.org/abs/2407.00132)
