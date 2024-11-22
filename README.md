@@ -6,7 +6,7 @@
   <a href="https://img.shields.io/badge/PRs-Welcome-red">
     <img src="https://img.shields.io/badge/PRs-Welcome-yellow" alt="PRs Welcome">
   </a>
-  <a href="https://img.shields.io/badge/arXiv-2403.15452-b31b1b.svg">
+  <a href="https://arxiv.org/abs/2403.15452">
     <img src="https://img.shields.io/badge/arXiv-2403.15452-b31b1b.svg" alt="arXiv">
   </a>
 </div>
