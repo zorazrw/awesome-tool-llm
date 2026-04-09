@@ -158,6 +158,8 @@ If you find our paper or code useful, please cite the paper:
 
   **ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving** *Gou, Zhibin, et al.* 2023.09 [[Paper]](https://openreview.net/forum?id=Ep0TtjVoap)
 
+  **Math Swarm: Zero-Hallucination Computation Engine for LLMs** *Winczuk, Michael.* 2026.04 [[Code]](https://github.com/michaelwinczuk/math-swarm) — Replaces LLM token prediction with SymPy symbolic math via a 6-agent deterministic pipeline. Benchmarked on 94 problems: Qwen2.5-3B (55%), 7B (77%), 32B (93%), Math Swarm (**100%**, 1.9ms, $0). Full test suite: 1,079 problems across 12 categories including 15 healthcare clinical formulas.
+
 - Tools for more advanced business activities, e.g., financial, medical, education, etc.
   
   **On the Tool Manipulation Capability of Open-source Large Language Models** *Xu, Qiantong, et al.* 2023.05 [[Paper]](https://openreview.net/forum?id=iShM3YolRY&referrer=%5Bthe%20profile%20of%20Changran%20Hu%5D(%2Fprofile%3Fid%3D~Changran_Hu1))
