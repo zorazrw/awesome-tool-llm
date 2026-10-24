@@ -103,6 +103,8 @@ If you find our paper or code useful, please cite the paper:
   **Making Language Models Better Tool Learners with Execution Feedback** *Qiao, Shuofei, et al.* 2023.05 [[Preprint]](https://arxiv.org/abs/2305.13068)
   
   **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error** *Wang, Boshi, et al.* 2024.03 [[Preprint]](https://arxiv.org/abs/2403.04746)
+  
+  **Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction** *Gao, Xingjie, et al.* 2026.01 [[Preprint]](https://arxiv.org/abs/2601.12762)
 
 - Self-training with bootstrapped examples
   
